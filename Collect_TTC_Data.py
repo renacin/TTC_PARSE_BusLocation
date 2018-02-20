@@ -18,7 +18,7 @@ from XML_PARSE_FUNCTION import get_transit_info
 
 # ----------------------------------------------------------------------------------------------------------------------
 
-# Agency Tag
+# Variables Of Focus
 ag = "ttc"
 rt_1 = "505"
 lc = "/Users/Matadeen/Documents/Programming/Python/Threading/Data/"
