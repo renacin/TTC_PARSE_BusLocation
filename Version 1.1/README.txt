@@ -10,7 +10,6 @@ This program was created in order to parse, and save bus locations, to a CSV fil
 Version Note:
 In this version, multithreading was used to parse bus locations for two routes. However, due to a limitation in the Python Global Interpreter Lock, or better yet, the general method of operation, the speed of reading, cleaning, and writing was limited to that of  a linear program. True parallel programing was not achieved due to the fact that common variables, found within the parse function, as well as a common dump-file, the CSV, were used. Another big limitation, in terms of speed, was the time it took to access the XML site; this resulted in roughly 70% of the time to complete.
 
-
 General Note:
 In the next version, an attempt to use processors - and processing, the alternative to threading, will be used in order to create separate memory environments, this will be an attempt to speed up the entire process. 
 
