@@ -1,0 +1,14 @@
+A	        1319
+B	        988
+bs	        18
+BSSS	    9
+bus     	4692
+buscon	    6948
+con	        5775
+default	    11937
+Lbus	    1296
+rush	    4
+SCVS	    5
+SLPbr	    1
+VIHPbus	    155
+
